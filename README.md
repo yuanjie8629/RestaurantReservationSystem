@@ -23,11 +23,11 @@ Run the project with C++ compiler.
 No testing has been performed.
 
 ## Previews
-1. MainMenu <br> <img src="previews/MainMenu.png">
-2. List <br> <img src="previews/List.png">
-3. Search for Availability <br> <img src="previews/SearchForAvailability.png">
-4. Update Reservation Record <br> <img src="previews/UpdateReservation.png">
-5. Add Reservation <br> <img src="previews/AddReservation.png">
-6. DeleteReservation <br> <img src="previews/DeleteReservation.png">
-7. Advanced Search <br> <img src="previews/Advanced Search.png">
-8. Exit <br> <img src="previews/Exit.png">
+1. MainMenu <br> <img src="previews/MainMenu.png"><br><br>
+2. List <br> <img src="previews/List.png"><br><br>
+3. Search for Availability <br> <img src="previews/SearchForAvailability.png"><br><br>
+4. Update Reservation Record <br> <img src="previews/UpdateReservation.png"><br><br>
+5. Add Reservation <br> <img src="previews/AddReservation.png"><br><br>
+6. DeleteReservation <br> <img src="previews/DeleteReservation.png"><br><br>
+7. Advanced Search <br> <img src="previews/AdvancedSearch.png"><br><br>
+8. Exit <br> <img src="previews/Exit.png"><br><br>
