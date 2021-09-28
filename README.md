@@ -20,7 +20,7 @@ Import the files into the project.
 Run the project with C++ compiler.
 
 ## Test
-No testing has been performed.
+Manual testing has been performed.
 
 ## Previews
 1. MainMenu <br> <img src="previews/MainMenu.png"><br><br>
