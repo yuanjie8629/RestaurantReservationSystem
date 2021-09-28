@@ -8,7 +8,7 @@
 
 1. **List** <br> Display the reservation records. Each display should contain an appropriate heading and column captions.
 2. **Search for Availability** <br> Search for the availability in the list using the date, time and number of guests.
-3. **Update Reservation Record** <br> Ask user for date, time and number of guests. Then search for availability in the list using the input data
+3. **Update Reservation Record** <br> Ask user for date, time and number of guests. Then search for availability in the list using the input data.
 4. **Exit** <br> Stop the program. The program will write the updated data in the list to the file.
 5. **Advanced Search** <br> Search for guest record(s) in the list using the name or phone number.
 
