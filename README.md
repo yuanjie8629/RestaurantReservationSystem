@@ -31,3 +31,9 @@ Manual testing has been performed.
 6. DeleteReservation <br> <img src="previews/DeleteReservation.png"><br><br>
 7. Advanced Search <br> <img src="previews/AdvancedSearch.png"><br><br>
 8. Exit <br> <img src="previews/Exit.png"><br><br>
+
+## Contributors
+1. Lean Wei Liang
+2. Seow Kai Sheng
+3. Tan Teck Song
+4. Tan Yuan Jie
