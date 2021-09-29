@@ -6,11 +6,11 @@
 <p>Therefore, this system is developed to help in processing the reservation records. Additionally, this system applies structured programming approach.</p>
 <p>The functions of the system are as follows:</p>
 
-1. **List** <br> Display the reservation records. Each display should contain an appropriate heading and column captions.<br>
-2. **Search for Availability** <br> Search for the availability in the list using the date, time and number of guests.<br>
-3. **Update Reservation Record** <br> Ask user for date, time and number of guests. Then search for availability in the list using the input data.<br>
-4. **Exit** <br> Stop the program. The program will write the updated data in the list to the file.<br>
-5. **Advanced Search** <br> Search for guest record(s) in the list using the name or phone number.<br>
+1. **List** <br> Display the reservation records. Each display should contain an appropriate heading and column captions.<br><br>
+2. **Search for Availability** <br> Search for the availability in the list using the date, time and number of guests.<br><br>
+3. **Update Reservation Record** <br> Ask user for date, time and number of guests. Then search for availability in the list using the input data.<br><br>
+4. **Exit** <br> Stop the program. The program will write the updated data in the list to the file.<br><br>
+5. **Advanced Search** <br> Search for guest record(s) in the list using the name or phone number.<br><br>
 
 ## Tools
 1. C++
