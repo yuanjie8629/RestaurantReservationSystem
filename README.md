@@ -23,7 +23,7 @@ Run the project with C++ compiler.
 Manual testing has been performed.
 
 ## Previews
-1. MainMenu <br> <img src="previews/MainMenu.png"><br><br>
+1. Main Menu <br> <img src="previews/MainMenu.png"><br><br>
 2. List <br> <img src="previews/List.png"><br><br>
 3. Search for Availability <br> <img src="previews/SearchForAvailability.png"><br><br>
 4. Update Reservation Record <br> <img src="previews/UpdateReservation.png"><br><br>
